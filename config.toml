@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://youthful-meninsky-ec9b26.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Dulcie Vousden"
