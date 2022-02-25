@@ -3,10 +3,8 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  Hello! I'm Dulcie.
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
-
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+I am a former neuroscientist who transitioned from academic research into data science. I am currently the Data Science Lead at DataKind UK where I help social change organisations turn their challenges into data science problems. I like beautiful data visualisations, reproducible analysis, and statistics. My goal is to make data science more approachable, understandable, and accessible.  

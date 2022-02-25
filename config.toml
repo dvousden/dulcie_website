@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Dulcie Vousden"
   orgLocal = "London, UK"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = "A description of me goes here"
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project", "talk"]
@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "sky"
+  theme = "water"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
